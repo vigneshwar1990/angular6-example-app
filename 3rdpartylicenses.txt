@@ -225,6 +225,10 @@ angular-example-library@1.1.2
 MIT
 MIT
 
+@angular/service-worker@5.2.9
+MIT
+MIT
+
 @angular/animations@5.2.3
 MIT
 MIT
