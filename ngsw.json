@@ -8,14 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/favicon.ico",
-        "/index.html",
-        "/0.d90c19c20f6f69f5918d.chunk.js",
-        "/4.551697478965c1c50a29.chunk.js",
-        "/inline.5551a4e63a00d6a4cc64.bundle.js",
-        "/main.f93a8f82a79bbcb1aa9b.bundle.js",
-        "/polyfills.35e8d70ffcd3b6b1f9ce.bundle.js",
-        "/scripts.d731b4ec961247fb3065.bundle.js",
-        "/styles.76abb075889279d0df6b.bundle.css"
+        "/index.html"
       ],
       "patterns": []
     },
@@ -61,23 +54,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/0.d90c19c20f6f69f5918d.chunk.js": "8a43ecb0be97a3c39f2e4d26f698c695b0110112",
-    "/assets/css/loading.css": "702bd03f01fd23e914617bfc96041088d7dbc88b",
-    "/4.551697478965c1c50a29.chunk.js": "c4c50479bc2d5b2d615a542cfc9b8b9e216052ae",
-    "/assets/css/reset.css": "82d5673e122656776dfc4e78e2883974f5eb0cdc",
-    "/inline.5551a4e63a00d6a4cc64.bundle.js": "c0f5a30716101ad503a117fa4f5796d63873cd3f",
-    "/assets/css/styles.scss": "b543025b02695504eb71bf00bc1cf28bfb0dbe4d",
-    "/main.f93a8f82a79bbcb1aa9b.bundle.js": "2001f90c4ef1058a83cdb65b4e629e1c88a0d77e",
-    "/assets/i18n/en.json": "573ed607662729356edef23888568b06a4f170dc",
-    "/polyfills.35e8d70ffcd3b6b1f9ce.bundle.js": "3723fa197fe20f1a4906f7cadda6b5c10fa95b15",
-    "/assets/i18n/es.json": "5f3ea34739e9356ebc06ef5587f50ad51d7a368a",
-    "/scripts.d731b4ec961247fb3065.bundle.js": "56c6e5e7047f309e4360f9d04a09956c44aa3a79",
-    "/assets/i18n/pt-br.json": "b5dd935feca1ff6b81231ee8060c4f97cecc91ec",
-    "/styles.76abb075889279d0df6b.bundle.css": "71d33f02b0d321698a1ea0f3d13fc5f6a8dd0e3d",
-    "/assets/i18n/zh.json": "278196b3f487beccdf5a2e33168b95f9e1202477",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/css/loading.css": "702bd03f01fd23e914617bfc96041088d7dbc88b",
+    "/index.html": "111c3dfc2cb96b7d5450ce3259439e6b852ffe91",
+    "/assets/css/reset.css": "82d5673e122656776dfc4e78e2883974f5eb0cdc",
+    "/assets/css/styles.scss": "7cd4106b7e4c4a43a24973210a7db2ef2a9dbe91",
+    "/assets/i18n/en.json": "573ed607662729356edef23888568b06a4f170dc",
+    "/assets/i18n/es.json": "5f3ea34739e9356ebc06ef5587f50ad51d7a368a",
+    "/assets/i18n/pt-br.json": "b5dd935feca1ff6b81231ee8060c4f97cecc91ec",
+    "/assets/i18n/zh.json": "278196b3f487beccdf5a2e33168b95f9e1202477",
     "/assets/images/404.gif": "5884765f20002934d84bbe9fb8cca3a46dc1326f",
-    "/index.html": "8e4c47252ccca63da6b05a23a13e72440a620877",
     "/assets/images/angular.svg": "765534075317a076e12de7e81a17a3d9df390a2c",
     "/assets/images/github-circle-white-transparent.svg": "349b787ee896c7131dbaee6a8e37e1bfff40c7e5",
     "/assets/images/heroes/1-thumbnail.jpg": "214479faa752a72b0b848cb06dc6ea85c8aa565b",
@@ -99,7 +85,7 @@
     "/assets/images/heroes/9-thumbnail.jpg": "c7db08c9e520fdbf03a229770efaf20628f93022",
     "/assets/images/heroes/9.jpg": "dc12717b6e2070ae7a313851cfb8a1cdfc0e1b49",
     "/assets/images/heroes/default.png": "4ba5c23dab24b6cb77cd8794a4b64b6e54998c31",
-    "/assets/js/gtm.js": "57fb02af428a9634b3466ee971a5eefca4f4b8bd",
+    "/assets/js/gtm.js": "7ea19a5e25bf754d6b86018c394bfc3e21ae51eb",
     "/assets/js/modernizr.js": "150b77e7d9c4fd1be99e62508a151c197ea906a7"
   }
 }
