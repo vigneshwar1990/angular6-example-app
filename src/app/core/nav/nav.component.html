@@ -3,7 +3,7 @@
         <div fxFlex fxLayout="row" fxLayout.xs="column" fxLayoutAlign="center center">
             <div fxFlex="40">
                 <a mat-raised-button *ngFor="let item of menuItems" routerLink="{{item.link}}">
-                    {{item.name | uppercase}}
+                    {{item.name | lowercase}}
                 </a>
             </div>
             <div fxFlex="20" id="today" *ngIf="currentLang">

@@ -12,8 +12,8 @@ export const AppConfig: IAppConfig = {
   endpoints: {
     heroes: 'https://nodejs-example-app.herokuapp.com/heroes'
   },
-  votesLimit: 3,
-  topHeroesLimit: 4,
+  votesLimit: 1000,
+  topHeroesLimit: 6,
   snackBarDuration: 3000,
   repositoryURL: 'https://github.com/Ismaestro/angular5-example-app'
 };
